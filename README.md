@@ -149,7 +149,7 @@ psql -U your_username -d your_database -f shopease_week2_solution.sql
 
 ## 👤 Author
 
-**[Your Name]**  
+**Manoj Jadhav**  
 Celebal Summer Internship 2026 — SQL Track  
 Celebal Technologies
 
